@@ -1,0 +1,28 @@
+{
+  "name": "timo-interview",
+  "version": "1.0.0",
+  "description": "A project for the Timo interview.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/galman33/timoInterview.git"
+  },
+  "keywords": [
+    "timo"
+  ],
+  "author": "Gal Pasternak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/galman33/timoInterview/issues"
+  },
+  "homepage": "https://gitlab.com/galman33/timoInterview#README",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+    
+  }
+}
