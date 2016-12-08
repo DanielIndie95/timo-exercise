@@ -4,5 +4,8 @@
         "module": "commonjs",
         "jsx": "react",
         "experimentalDecorators": true
-    }
+    },
+    "files": [
+  "typings/index.d.ts"
+    ]
 }
