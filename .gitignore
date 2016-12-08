@@ -4,3 +4,5 @@ bundle.js
 *.css.d.ts
 .sass-cache
 npm-debug.log
+yarn-error.log
+yarn.lock
