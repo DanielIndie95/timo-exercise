@@ -2,7 +2,7 @@ import *  as React from 'react'
 import *  as Ons from 'react-onsenui'
 import { observable } from 'mobx'
 import { observer } from 'mobx-react'
-import {Users} from "./models/user/user.model"
+import {Users} from "../models/user/user.model"
 
 interface CounterProps {
     initialCount: number
